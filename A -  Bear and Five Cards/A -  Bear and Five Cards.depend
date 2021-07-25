@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563226630 source:c:\users\hp\desktop\code forces\a -  bear and five cards\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

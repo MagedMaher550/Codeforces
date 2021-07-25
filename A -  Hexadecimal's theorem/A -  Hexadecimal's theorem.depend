@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561320911 source:c:\users\hp\desktop\code forces\a -  hexadecimal's theorem\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562547071 source:c:\users\hp\desktop\code forces\a -  one-dimensional japanese crossword\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562102933 source:c:\users\hp\desktop\code forces\a -  free ice cream\main.cpp
+	<iostream>
+	<stdio.h>
+	<sstream>
+

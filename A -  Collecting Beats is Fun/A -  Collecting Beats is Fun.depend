@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562931595 source:c:\users\hp\desktop\code forces\a -  collecting beats is fun\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<algorithm>
+	<string.h>
+
